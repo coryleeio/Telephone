@@ -23,8 +23,9 @@ english
 'tested' on python3
 
 USAGE:
-$ pip install -r requirements.txt
-$ python translate.py "It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier."
 
-===> 
-Joseph preached, I remember all the resources. Dreams, adults and many people are very surprised.
+  $ pip install -r requirements.txt
+  $ python translate.py "It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier."
+
+  ===> 
+  Joseph preached, I remember all the resources. Dreams, adults and many people are very surprised.
